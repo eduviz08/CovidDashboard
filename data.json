@@ -1,0 +1,684 @@
+{"countries": "USA"}
+{"countries": "India"}
+{"countries": "France"}
+{"countries": "Germany"}
+{"countries": "Brazil"}
+{"countries": "S. Korea"}
+{"countries": "Japan"}
+{"countries": "Italy"}
+{"countries": "UK"}
+{"countries": "Russia"}
+{"countries": "Turkey"}
+{"countries": "Spain"}
+{"countries": "Vietnam"}
+{"countries": "Australia"}
+{"countries": "Argentina"}
+{"countries": "Netherlands"}
+{"countries": "Taiwan"}
+{"countries": "Iran"}
+{"countries": "Mexico"}
+{"countries": "Indonesia"}
+{"countries": "Poland"}
+{"countries": "Colombia"}
+{"countries": "Austria"}
+{"countries": "Portugal"}
+{"countries": "Greece"}
+{"countries": "Ukraine"}
+{"countries": "Malaysia"}
+{"countries": "Chile"}
+{"countries": "DPRK"}
+{"countries": "Israel"}
+{"countries": "Thailand"}
+{"countries": "Belgium"}
+{"countries": "Czechia"}
+{"countries": "Canada"}
+{"countries": "Switzerland"}
+{"countries": "Peru"}
+{"countries": "South Africa"}
+{"countries": "Philippines"}
+{"countries": "Romania"}
+{"countries": "Denmark"}
+{"countries": "Sweden"}
+{"countries": "Iraq"}
+{"countries": "Serbia"}
+{"countries": "Singapore"}
+{"countries": "Hungary"}
+{"countries": "Hong Kong"}
+{"countries": "Bangladesh"}
+{"countries": "New Zealand"}
+{"countries": "Slovakia"}
+{"countries": "Georgia"}
+{"countries": "Jordan"}
+{"countries": "Ireland"}
+{"countries": "Pakistan"}
+{"countries": "Norway"}
+{"countries": "Finland"}
+{"countries": "Kazakhstan"}
+{"countries": "Bulgaria"}
+{"countries": "Lithuania"}
+{"countries": "Morocco"}
+{"countries": "Slovenia"}
+{"countries": "Croatia"}
+{"countries": "Lebanon"}
+{"countries": "Guatemala"}
+{"countries": "Tunisia"}
+{"countries": "Costa Rica"}
+{"countries": "Cuba"}
+{"countries": "Bolivia"}
+{"countries": "UAE"}
+{"countries": "Ecuador"}
+{"countries": "Panama"}
+{"countries": "Nepal"}
+{"countries": "Belarus"}
+{"countries": "Uruguay"}
+{"countries": "Mongolia"}
+{"countries": "Latvia"}
+{"countries": "Saudi Arabia"}
+{"countries": "Azerbaijan"}
+{"countries": "Paraguay"}
+{"countries": "Bahrain"}
+{"countries": "Sri Lanka"}
+{"countries": "Kuwait"}
+{"countries": "Dominican Republic"}
+{"countries": "Myanmar"}
+{"countries": "Palestine"}
+{"countries": "Cyprus"}
+{"countries": "Estonia"}
+{"countries": "Moldova"}
+{"countries": "Venezuela"}
+{"countries": "Egypt"}
+{"countries": "Libya"}
+{"countries": "Ethiopia"}
+{"countries": "Qatar"}
+{"countries": "R\u00e9union"}
+{"countries": "Honduras"}
+{"countries": "Armenia"}
+{"countries": "Bosnia and Herzegovina"}
+{"countries": "Oman"}
+{"countries": "North Macedonia"}
+{"countries": "Kenya"}
+{"countries": "Zambia"}
+{"countries": "Albania"}
+{"countries": "Botswana"}
+{"countries": "Luxembourg"}
+{"countries": "Montenegro"}
+{"countries": "Algeria"}
+{"countries": "Nigeria"}
+{"countries": "Zimbabwe"}
+{"countries": "Uzbekistan"}
+{"countries": "Brunei "}
+{"countries": "Mozambique"}
+{"countries": "Martinique"}
+{"countries": "Laos"}
+{"countries": "Iceland"}
+{"countries": "Kyrgyzstan"}
+{"countries": "Afghanistan"}
+{"countries": "El Salvador"}
+{"countries": "Guadeloupe"}
+{"countries": "Maldives"}
+{"countries": "Trinidad and Tobago"}
+{"countries": "Ghana"}
+{"countries": "Namibia"}
+{"countries": "Uganda"}
+{"countries": "Jamaica"}
+{"countries": "Cambodia"}
+{"countries": "Rwanda"}
+{"countries": "Cameroon"}
+{"countries": "Malta"}
+{"countries": "Angola"}
+{"countries": "Barbados"}
+{"countries": "French Guiana"}
+{"countries": "Channel Islands"}
+{"countries": "DRC"}
+{"countries": "Senegal"}
+{"countries": "Malawi"}
+{"countries": "Ivory Coast"}
+{"countries": "Suriname"}
+{"countries": "French Polynesia"}
+{"countries": "New Caledonia"}
+{"countries": "Eswatini"}
+{"countries": "Guyana"}
+{"countries": "Belize"}
+{"countries": "Fiji"}
+{"countries": "Madagascar"}
+{"countries": "Sudan"}
+{"countries": "Mauritania"}
+{"countries": "Cabo Verde"}
+{"countries": "Bhutan"}
+{"countries": "Syria"}
+{"countries": "Burundi"}
+{"countries": "Seychelles"}
+{"countries": "Gabon"}
+{"countries": "Andorra"}
+{"countries": "Papua New Guinea"}
+{"countries": "Cura\u00e7ao"}
+{"countries": "Aruba"}
+{"countries": "Mayotte"}
+{"countries": "Mauritius"}
+{"countries": "Tanzania"}
+{"countries": "Togo"}
+{"countries": "Guinea"}
+{"countries": "Isle of Man"}
+{"countries": "Bahamas"}
+{"countries": "Faeroe Islands"}
+{"countries": "Lesotho"}
+{"countries": "Haiti"}
+{"countries": "Mali"}
+{"countries": "Cayman Islands"}
+{"countries": "Saint Lucia"}
+{"countries": "Benin"}
+{"countries": "Somalia"}
+{"countries": "Congo"}
+{"countries": "Solomon Islands"}
+{"countries": "Timor-Leste"}
+{"countries": "Micronesia"}
+{"countries": "San Marino"}
+{"countries": "Burkina Faso"}
+{"countries": "Liechtenstein"}
+{"countries": "Gibraltar"}
+{"countries": "Grenada"}
+{"countries": "Nicaragua"}
+{"countries": "Bermuda"}
+{"countries": "South Sudan"}
+{"countries": "Tajikistan"}
+{"countries": "Equatorial Guinea"}
+{"countries": "Tonga"}
+{"countries": "Samoa"}
+{"countries": "Dominica"}
+{"countries": "Djibouti"}
+{"countries": "Marshall Islands"}
+{"countries": "Monaco"}
+{"countries": "CAR"}
+{"countries": "Gambia"}
+{"countries": "Saint Martin"}
+{"countries": "Greenland"}
+{"countries": "Vanuatu"}
+{"countries": "Yemen"}
+{"countries": "Caribbean Netherlands"}
+{"countries": "Sint Maarten"}
+{"countries": "Eritrea"}
+{"countries": "Niger"}
+{"countries": "Antigua and Barbuda"}
+{"countries": "Comoros"}
+{"countries": "Guinea-Bissau"}
+{"countries": "Liberia"}
+{"countries": "Sierra Leone"}
+{"countries": "Chad"}
+{"countries": "British Virgin Islands"}
+{"countries": "St. Vincent Grenadines"}
+{"countries": "Saint Kitts and Nevis"}
+{"countries": "Turks and Caicos"}
+{"countries": "Cook Islands"}
+{"countries": "Sao Tome and Principe"}
+{"countries": "Palau"}
+{"countries": "St. Barth"}
+{"countries": "Nauru"}
+{"countries": "Anguilla"}
+{"countries": "Kiribati"}
+{"countries": "Saint Pierre Miquelon"}
+{"countries": "Tuvalu"}
+{"countries": "Falkland Islands"}
+{"countries": "Saint Helena"}
+{"countries": "Montserrat"}
+{"countries": "Macao"}
+{"countries": "Wallis and Futuna"}
+{"countries": "Niue"}
+{"countries": "Vatican City"}
+{"countries": "Western Sahara"}
+{"countries": "China"}
+{"countries": "China"}
+{"countries": "USA"}
+{"countries": "India"}
+{"countries": "France"}
+{"countries": "Germany"}
+{"countries": "Brazil"}
+{"countries": "S. Korea"}
+{"countries": "Japan"}
+{"countries": "Italy"}
+{"countries": "UK"}
+{"countries": "Russia"}
+{"countries": "Turkey"}
+{"countries": "Spain"}
+{"countries": "Vietnam"}
+{"countries": "Australia"}
+{"countries": "Argentina"}
+{"countries": "Netherlands"}
+{"countries": "Taiwan"}
+{"countries": "Iran"}
+{"countries": "Mexico"}
+{"countries": "Indonesia"}
+{"countries": "Poland"}
+{"countries": "Colombia"}
+{"countries": "Austria"}
+{"countries": "Portugal"}
+{"countries": "Greece"}
+{"countries": "Ukraine"}
+{"countries": "Malaysia"}
+{"countries": "Chile"}
+{"countries": "DPRK"}
+{"countries": "Israel"}
+{"countries": "Thailand"}
+{"countries": "Belgium"}
+{"countries": "Czechia"}
+{"countries": "Canada"}
+{"countries": "Switzerland"}
+{"countries": "Peru"}
+{"countries": "South Africa"}
+{"countries": "Philippines"}
+{"countries": "Romania"}
+{"countries": "Denmark"}
+{"countries": "Sweden"}
+{"countries": "Iraq"}
+{"countries": "Serbia"}
+{"countries": "Singapore"}
+{"countries": "Hungary"}
+{"countries": "Hong Kong"}
+{"countries": "Bangladesh"}
+{"countries": "New Zealand"}
+{"countries": "Slovakia"}
+{"countries": "Georgia"}
+{"countries": "Jordan"}
+{"countries": "Ireland"}
+{"countries": "Pakistan"}
+{"countries": "Norway"}
+{"countries": "Finland"}
+{"countries": "Kazakhstan"}
+{"countries": "Bulgaria"}
+{"countries": "Lithuania"}
+{"countries": "Morocco"}
+{"countries": "Slovenia"}
+{"countries": "Croatia"}
+{"countries": "Lebanon"}
+{"countries": "Guatemala"}
+{"countries": "Tunisia"}
+{"countries": "Costa Rica"}
+{"countries": "Cuba"}
+{"countries": "Bolivia"}
+{"countries": "UAE"}
+{"countries": "Ecuador"}
+{"countries": "Panama"}
+{"countries": "Nepal"}
+{"countries": "Belarus"}
+{"countries": "Uruguay"}
+{"countries": "Mongolia"}
+{"countries": "Latvia"}
+{"countries": "Saudi Arabia"}
+{"countries": "Azerbaijan"}
+{"countries": "Paraguay"}
+{"countries": "Bahrain"}
+{"countries": "Sri Lanka"}
+{"countries": "Kuwait"}
+{"countries": "Dominican Republic"}
+{"countries": "Myanmar"}
+{"countries": "Palestine"}
+{"countries": "Cyprus"}
+{"countries": "Estonia"}
+{"countries": "Moldova"}
+{"countries": "Venezuela"}
+{"countries": "Egypt"}
+{"countries": "Libya"}
+{"countries": "Ethiopia"}
+{"countries": "Qatar"}
+{"countries": "R\u00e9union"}
+{"countries": "Honduras"}
+{"countries": "Armenia"}
+{"countries": "Bosnia and Herzegovina"}
+{"countries": "Oman"}
+{"countries": "North Macedonia"}
+{"countries": "Kenya"}
+{"countries": "Zambia"}
+{"countries": "Albania"}
+{"countries": "Botswana"}
+{"countries": "Luxembourg"}
+{"countries": "Montenegro"}
+{"countries": "Algeria"}
+{"countries": "Nigeria"}
+{"countries": "Zimbabwe"}
+{"countries": "Uzbekistan"}
+{"countries": "Brunei "}
+{"countries": "Mozambique"}
+{"countries": "Martinique"}
+{"countries": "Laos"}
+{"countries": "Iceland"}
+{"countries": "Kyrgyzstan"}
+{"countries": "Afghanistan"}
+{"countries": "El Salvador"}
+{"countries": "Guadeloupe"}
+{"countries": "Maldives"}
+{"countries": "Trinidad and Tobago"}
+{"countries": "Ghana"}
+{"countries": "Namibia"}
+{"countries": "Uganda"}
+{"countries": "Jamaica"}
+{"countries": "Cambodia"}
+{"countries": "Rwanda"}
+{"countries": "Cameroon"}
+{"countries": "Malta"}
+{"countries": "Angola"}
+{"countries": "Barbados"}
+{"countries": "French Guiana"}
+{"countries": "Channel Islands"}
+{"countries": "DRC"}
+{"countries": "Senegal"}
+{"countries": "Malawi"}
+{"countries": "Ivory Coast"}
+{"countries": "Suriname"}
+{"countries": "French Polynesia"}
+{"countries": "New Caledonia"}
+{"countries": "Eswatini"}
+{"countries": "Guyana"}
+{"countries": "Belize"}
+{"countries": "Fiji"}
+{"countries": "Madagascar"}
+{"countries": "Sudan"}
+{"countries": "Mauritania"}
+{"countries": "Cabo Verde"}
+{"countries": "Bhutan"}
+{"countries": "Syria"}
+{"countries": "Burundi"}
+{"countries": "Seychelles"}
+{"countries": "Gabon"}
+{"countries": "Andorra"}
+{"countries": "Papua New Guinea"}
+{"countries": "Cura\u00e7ao"}
+{"countries": "Aruba"}
+{"countries": "Mayotte"}
+{"countries": "Mauritius"}
+{"countries": "Tanzania"}
+{"countries": "Togo"}
+{"countries": "Guinea"}
+{"countries": "Isle of Man"}
+{"countries": "Bahamas"}
+{"countries": "Faeroe Islands"}
+{"countries": "Lesotho"}
+{"countries": "Haiti"}
+{"countries": "Mali"}
+{"countries": "Cayman Islands"}
+{"countries": "Saint Lucia"}
+{"countries": "Benin"}
+{"countries": "Somalia"}
+{"countries": "Congo"}
+{"countries": "Solomon Islands"}
+{"countries": "Timor-Leste"}
+{"countries": "Micronesia"}
+{"countries": "San Marino"}
+{"countries": "Burkina Faso"}
+{"countries": "Liechtenstein"}
+{"countries": "Gibraltar"}
+{"countries": "Grenada"}
+{"countries": "Nicaragua"}
+{"countries": "Bermuda"}
+{"countries": "South Sudan"}
+{"countries": "Tajikistan"}
+{"countries": "Equatorial Guinea"}
+{"countries": "Tonga"}
+{"countries": "Samoa"}
+{"countries": "Dominica"}
+{"countries": "Djibouti"}
+{"countries": "Marshall Islands"}
+{"countries": "Monaco"}
+{"countries": "CAR"}
+{"countries": "Gambia"}
+{"countries": "Saint Martin"}
+{"countries": "Greenland"}
+{"countries": "Vanuatu"}
+{"countries": "Yemen"}
+{"countries": "Caribbean Netherlands"}
+{"countries": "Sint Maarten"}
+{"countries": "Eritrea"}
+{"countries": "Niger"}
+{"countries": "Antigua and Barbuda"}
+{"countries": "Comoros"}
+{"countries": "Guinea-Bissau"}
+{"countries": "Liberia"}
+{"countries": "Sierra Leone"}
+{"countries": "Chad"}
+{"countries": "British Virgin Islands"}
+{"countries": "St. Vincent Grenadines"}
+{"countries": "Saint Kitts and Nevis"}
+{"countries": "Turks and Caicos"}
+{"countries": "Cook Islands"}
+{"countries": "Sao Tome and Principe"}
+{"countries": "Palau"}
+{"countries": "St. Barth"}
+{"countries": "Nauru"}
+{"countries": "Anguilla"}
+{"countries": "Kiribati"}
+{"countries": "Saint Pierre Miquelon"}
+{"countries": "Tuvalu"}
+{"countries": "Falkland Islands"}
+{"countries": "Saint Helena"}
+{"countries": "Montserrat"}
+{"countries": "Macao"}
+{"countries": "Wallis and Futuna"}
+{"countries": "Niue"}
+{"countries": "Vatican City"}
+{"countries": "Western Sahara"}
+{"countries": "China"}
+{"countries": "USA"}
+{"countries": "India"}
+{"countries": "France"}
+{"countries": "Germany"}
+{"countries": "Brazil"}
+{"countries": "S. Korea"}
+{"countries": "Japan"}
+{"countries": "Italy"}
+{"countries": "UK"}
+{"countries": "Russia"}
+{"countries": "Turkey"}
+{"countries": "Spain"}
+{"countries": "Vietnam"}
+{"countries": "Australia"}
+{"countries": "Argentina"}
+{"countries": "Netherlands"}
+{"countries": "Taiwan"}
+{"countries": "Iran"}
+{"countries": "Mexico"}
+{"countries": "Indonesia"}
+{"countries": "Poland"}
+{"countries": "Colombia"}
+{"countries": "Austria"}
+{"countries": "Portugal"}
+{"countries": "Greece"}
+{"countries": "Ukraine"}
+{"countries": "Malaysia"}
+{"countries": "Chile"}
+{"countries": "DPRK"}
+{"countries": "Israel"}
+{"countries": "Thailand"}
+{"countries": "Belgium"}
+{"countries": "Czechia"}
+{"countries": "Canada"}
+{"countries": "Switzerland"}
+{"countries": "Peru"}
+{"countries": "South Africa"}
+{"countries": "Philippines"}
+{"countries": "Romania"}
+{"countries": "Denmark"}
+{"countries": "Sweden"}
+{"countries": "Iraq"}
+{"countries": "Serbia"}
+{"countries": "Singapore"}
+{"countries": "Hungary"}
+{"countries": "Hong Kong"}
+{"countries": "Bangladesh"}
+{"countries": "New Zealand"}
+{"countries": "Slovakia"}
+{"countries": "Georgia"}
+{"countries": "Jordan"}
+{"countries": "Ireland"}
+{"countries": "Pakistan"}
+{"countries": "Norway"}
+{"countries": "Finland"}
+{"countries": "Kazakhstan"}
+{"countries": "Bulgaria"}
+{"countries": "Lithuania"}
+{"countries": "Morocco"}
+{"countries": "Slovenia"}
+{"countries": "Croatia"}
+{"countries": "Lebanon"}
+{"countries": "Guatemala"}
+{"countries": "Tunisia"}
+{"countries": "Costa Rica"}
+{"countries": "Cuba"}
+{"countries": "Bolivia"}
+{"countries": "UAE"}
+{"countries": "Ecuador"}
+{"countries": "Panama"}
+{"countries": "Nepal"}
+{"countries": "Belarus"}
+{"countries": "Uruguay"}
+{"countries": "Mongolia"}
+{"countries": "Latvia"}
+{"countries": "Saudi Arabia"}
+{"countries": "Azerbaijan"}
+{"countries": "Paraguay"}
+{"countries": "Bahrain"}
+{"countries": "Sri Lanka"}
+{"countries": "Kuwait"}
+{"countries": "Dominican Republic"}
+{"countries": "Myanmar"}
+{"countries": "Palestine"}
+{"countries": "Cyprus"}
+{"countries": "Estonia"}
+{"countries": "Moldova"}
+{"countries": "Venezuela"}
+{"countries": "Egypt"}
+{"countries": "Libya"}
+{"countries": "Ethiopia"}
+{"countries": "Qatar"}
+{"countries": "R\u00e9union"}
+{"countries": "Honduras"}
+{"countries": "Armenia"}
+{"countries": "Bosnia and Herzegovina"}
+{"countries": "Oman"}
+{"countries": "North Macedonia"}
+{"countries": "Kenya"}
+{"countries": "Zambia"}
+{"countries": "Albania"}
+{"countries": "Botswana"}
+{"countries": "Luxembourg"}
+{"countries": "Montenegro"}
+{"countries": "Algeria"}
+{"countries": "Nigeria"}
+{"countries": "Zimbabwe"}
+{"countries": "Uzbekistan"}
+{"countries": "Brunei "}
+{"countries": "Mozambique"}
+{"countries": "Martinique"}
+{"countries": "Laos"}
+{"countries": "Iceland"}
+{"countries": "Kyrgyzstan"}
+{"countries": "Afghanistan"}
+{"countries": "El Salvador"}
+{"countries": "Guadeloupe"}
+{"countries": "Maldives"}
+{"countries": "Trinidad and Tobago"}
+{"countries": "Ghana"}
+{"countries": "Namibia"}
+{"countries": "Uganda"}
+{"countries": "Jamaica"}
+{"countries": "Cambodia"}
+{"countries": "Rwanda"}
+{"countries": "Cameroon"}
+{"countries": "Malta"}
+{"countries": "Angola"}
+{"countries": "Barbados"}
+{"countries": "Channel Islands"}
+{"countries": "French Guiana"}
+{"countries": "DRC"}
+{"countries": "Senegal"}
+{"countries": "Malawi"}
+{"countries": "Ivory Coast"}
+{"countries": "Suriname"}
+{"countries": "French Polynesia"}
+{"countries": "New Caledonia"}
+{"countries": "Eswatini"}
+{"countries": "Guyana"}
+{"countries": "Belize"}
+{"countries": "Fiji"}
+{"countries": "Madagascar"}
+{"countries": "Sudan"}
+{"countries": "Mauritania"}
+{"countries": "Cabo Verde"}
+{"countries": "Bhutan"}
+{"countries": "Syria"}
+{"countries": "Burundi"}
+{"countries": "Seychelles"}
+{"countries": "Gabon"}
+{"countries": "Andorra"}
+{"countries": "Papua New Guinea"}
+{"countries": "Cura\u00e7ao"}
+{"countries": "Aruba"}
+{"countries": "Mayotte"}
+{"countries": "Mauritius"}
+{"countries": "Tanzania"}
+{"countries": "Togo"}
+{"countries": "Guinea"}
+{"countries": "Isle of Man"}
+{"countries": "Bahamas"}
+{"countries": "Faeroe Islands"}
+{"countries": "Lesotho"}
+{"countries": "Haiti"}
+{"countries": "Mali"}
+{"countries": "Cayman Islands"}
+{"countries": "Saint Lucia"}
+{"countries": "Benin"}
+{"countries": "Somalia"}
+{"countries": "Congo"}
+{"countries": "Solomon Islands"}
+{"countries": "Timor-Leste"}
+{"countries": "Micronesia"}
+{"countries": "San Marino"}
+{"countries": "Burkina Faso"}
+{"countries": "Liechtenstein"}
+{"countries": "Gibraltar"}
+{"countries": "Grenada"}
+{"countries": "Nicaragua"}
+{"countries": "Bermuda"}
+{"countries": "South Sudan"}
+{"countries": "Tajikistan"}
+{"countries": "Equatorial Guinea"}
+{"countries": "Tonga"}
+{"countries": "Samoa"}
+{"countries": "Dominica"}
+{"countries": "Djibouti"}
+{"countries": "Marshall Islands"}
+{"countries": "Monaco"}
+{"countries": "CAR"}
+{"countries": "Gambia"}
+{"countries": "Saint Martin"}
+{"countries": "Greenland"}
+{"countries": "Vanuatu"}
+{"countries": "Yemen"}
+{"countries": "Caribbean Netherlands"}
+{"countries": "Sint Maarten"}
+{"countries": "Eritrea"}
+{"countries": "Niger"}
+{"countries": "Antigua and Barbuda"}
+{"countries": "Comoros"}
+{"countries": "Guinea-Bissau"}
+{"countries": "Liberia"}
+{"countries": "Sierra Leone"}
+{"countries": "Chad"}
+{"countries": "British Virgin Islands"}
+{"countries": "St. Vincent Grenadines"}
+{"countries": "Saint Kitts and Nevis"}
+{"countries": "Turks and Caicos"}
+{"countries": "Cook Islands"}
+{"countries": "Sao Tome and Principe"}
+{"countries": "Palau"}
+{"countries": "St. Barth"}
+{"countries": "Nauru"}
+{"countries": "Anguilla"}
+{"countries": "Kiribati"}
+{"countries": "Saint Pierre Miquelon"}
+{"countries": "Tuvalu"}
+{"countries": "Falkland Islands"}
+{"countries": "Saint Helena"}
+{"countries": "Montserrat"}
+{"countries": "Macao"}
+{"countries": "Wallis and Futuna"}
+{"countries": "Niue"}
+{"countries": "Vatican City"}
+{"countries": "Western Sahara"}
